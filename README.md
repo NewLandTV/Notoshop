@@ -4,6 +4,8 @@ I created a photo editor using C programming.
 
 C 프로그래밍으로 사진 편집기를 만들었습니다.
 
+[![Development Note p.131](https://img.youtube.com/vi/tUxHc96tzdY/0.jpg)](https://www.youtube.com/watch?v=tUxHc96tzdY)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
